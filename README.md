@@ -2,14 +2,10 @@
 
 ## Assignment 1# : Xed program converts file content to hex or binary format.
 
-Jasmine McDuffie 825467728 CS530 Assignment 1
+# Jasmine McDuffie 825467728 CS530 Assignment 1
 
-This project opens the file given by a user. The program checks if the file is open, if not prints error opening file. Next the file is read and the user can either have the file contents converted to heximal or binary. The address is printed before the statement.There is a xed.cpp file, Makefile, README, and xed.h file.
+This project displays human readable file contents along with either binary,6 ocects per line, or hexidecimal, 16 bytes per line, format. 
 
+This is a File Reader Program. Checks if file is open. Converts to Binary or to Hex. Prints human readable characters or a . where is is not printable.
 
-*File Reader Program
-*Checks if file is open
-*Converts to Binary
-*Converts to Hex
-
-This project taught me how to use linux and how to use vi to make files. I used Ubuntu to create xed assignment 1 program.
+I learned how to utiliza ascii values to print human readable characters and how to represent binary format.
